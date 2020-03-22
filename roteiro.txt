@@ -1,0 +1,3 @@
+create-react-app airbnb-web
+
+npm install react-router-dom axios styled-components prop-types font-awesome
